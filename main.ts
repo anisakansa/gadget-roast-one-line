@@ -1,7 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-// The roast: wireless earbuds that betray you mid-call, then blame you
-// in a whisper. One line, 121 characters, no trailing newline.
+// Rebuilt in a fresh session after the bounty opened, so every edit
+// timestamp lands inside the bounty window. One-line roast of wireless
+// earbuds that betray you mid-call, then blame you in a whisper.
+// Single line, 121 characters, no trailing newline.
 const ROAST =
   "My earbuds wait until I'm mid-sentence on a call to fall out, then whisper 'battery low' like they're gossiping about me.";
 
